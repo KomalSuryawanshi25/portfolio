@@ -35,3 +35,44 @@
 .logo{
     font-size:x-large;
 }
+  
+/* resume */
+
+.rtitle:hover {
+  color: teal;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+
+h1:hover {
+  color: teal;
+  transition: 0.3s;
+  cursor: pointer;
+}
+  /* my skills */
+
+  .card-img-top{
+    width:150px;
+    margin-top: 10px;
+   
+    
+  }
+
+  
+
+  .card{
+    align-items: center;
+    width:300px;
+    height: 450px;
+    box-shadow: 2;
+  }
+
+  body{
+  background-image:url(); 
+  background-color:rgb(233, 225, 225);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+}
